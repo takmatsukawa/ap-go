@@ -1,3 +1,3 @@
 # ap-go
 
-応用情報技術者試験で求められる知識を深めるための実装群。Goの学習も兼ねている。
+This is implementations to deepen the knowledge required for the Applied Information Technology Engineer Examination (JP), which also serves as a study of Go.
