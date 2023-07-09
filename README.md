@@ -1,3 +1,3 @@
 # ap-go
 
-This is implementations to deepen the knowledge required for the Applied Information Technology Engineer Examination (JP), which also serves as a study of Go.
+These are implementations to deepen the knowledge required for the Applied Information Technology Engineer Examination (JP), which also serve as a study of Go.
